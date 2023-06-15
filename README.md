@@ -1,2 +1,3 @@
 # PracticaPython
-Prácticas de Conocimientos en Facebook
+## Programado por Lemys.Almanza
+Prácticas de Conocimientos en Python
